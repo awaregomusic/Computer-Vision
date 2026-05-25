@@ -1,1 +1,8 @@
 deepface
+opencv-python
+matplotlib
+numpy
+pandas
+Pillow
+requests
+tf-keras
